@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Yahav!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykatzeln&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykatzeln)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
